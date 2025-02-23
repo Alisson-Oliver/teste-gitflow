@@ -1,5 +1,5 @@
 
 
 console.log('Inciando o programa');	
-const login = () => {console.log('Login feito')};
-login();
+const login = (x) => {console.log(x)};
+login("Senha incorreta");
