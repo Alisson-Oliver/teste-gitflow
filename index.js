@@ -1,1 +1,5 @@
-console.log('Inciando o programa')
+
+
+console.log('Inciando o programa');	
+const login = () => {console.log('Login feito')};
+login();
